@@ -7,3 +7,10 @@ def name
   @name
  end
 end  
+
+class Person 
+
+def job=(person_job)
+  @job = person_job
+end
+end  
